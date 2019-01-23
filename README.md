@@ -24,7 +24,7 @@
 
 * HTML / CSS, cause you kinda have too
 
-#### Link to project [https://izaakmills.github.io/codeteam-6/]
+#### Link to project [https://izaakmills.github.io/iRyde/]
 
 ## Contributors
 - Rick Knowlton
