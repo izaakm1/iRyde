@@ -37,7 +37,7 @@ $(document).ready(function () {
                 // $("#uberPrice").html("<a class='waves-effect waves-light btn-small'>Uber: "+ uberPrice.toFixed(2)+"</a>");
             }
 
-            if (lyftPrice < MinimumFareUber) {
+            if (lyftPrice < MinimumFareLyft) {
                 $("#lyftPrice").html("<div class = 'results'> <b>Lyft:</b> $" + MinimumFareLyft);
             } else {
                 $("#lyftPrice").html("<div class = 'results'> <b>Lyft:</b> $" + lyftPrice.toFixed(2));
